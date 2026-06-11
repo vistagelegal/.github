@@ -6,10 +6,13 @@ Welcome to the Vistage's legal team's Github organization. This space is for dev
  
 This organization hosts:
 - Claude skills for legal workflows (diligence, research, process automation)
-- Documentation and templates for legal operations
+- Engineering documentation and templates for legal operations
 - Scripts and tools supporting legal team functions
-- Internal documentation and best practices
-**This is a private, internal repository.** Access is restricted to Vistage Legal team members.
+- Any tool that supports Vistage's internal legal operations
+
+Access is restricted to Vistage's legal team.
+
+**This is a private, internal repository.**
  
 ---
  
